@@ -1,0 +1,17 @@
+{
+    "name": "edzebubu/deywurosmsapi",
+    "description": "This is a deywuro sms api integration for laravel",
+    "autoload": {
+        "psr-4": {
+            "Edzebubu\\Deywurosmsapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "L0MAX",
+            "email": "ankahdonatus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
